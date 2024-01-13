@@ -1,0 +1,152 @@
+body {
+    background-color: black;
+    background-image: url("../img/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+}
+
+.bosh {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    background-color: black;
+    border: 3px solid red;
+    border-radius: 20px;
+    height: 80px;
+}
+
+
+.ul-bosh {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.orta-qisim {
+    display: inline-block;
+    list-style: none;
+    margin: 15px;
+    text-align: center;
+}
+
+.orta-qisim a {
+    text-decoration: none;
+    padding: 13px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    letter-spacing: 4px;
+}
+
+.orta-qisim a:hover {
+    color: yellow;
+    background-color: red;
+    border-radius: 10px;
+}
+
+.tort {
+    margin-top: 150px;
+    background-image: url(../img/tort.jpg);
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px;
+    color: yellow;
+    font-size: 50px;
+    margin-right: 170px;
+    border: 3px solid red;
+    border-radius: 15px;
+}
+
+.tort:hover {
+    border: 10px solid red;
+    padding: 203px;
+}
+
+.paxlova {
+    background-image: url(../img/paxlova.jpg);
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 190px;
+    color: blue;
+    font-size: 50px;
+    border: 3px solid red;
+    border-radius: 15px;
+}
+
+.paxlova:hover {
+    border: 10px solid red;
+    padding: 193px;
+}
+
+.bolichka {
+    background-image: url(../img/bolichka.jpg);
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 185px;
+    margin-right: 190px;
+    color: blue;
+    font-size: 50px;
+    border: 3px solid red;
+    border-radius: 15px;
+}
+
+.bolichka:hover {
+    border: 10px solid red;
+    padding: 185px;
+}
+
+.pichina {
+    background-image: url(../img/picheniy.jpg);
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 180px;
+    color: yellow;
+    font-size: 50px;
+    border: 3px solid red;
+    border-radius: 15px;
+}
+
+.pichina:hover {
+    border: 8px solid red;
+    padding: 180px;
+}
+
+.pirog {
+    background-image: url(../img/pirog.jpg);
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 210px;
+    color: red;
+    font-size: 50px;
+    border: 3px solid red;
+    border-radius: 15px;
+    margin-right: 130px;
+}
+
+.pirog:hover {
+    border: 10px solid red;
+    padding: 212px;
+}
+
+.tort-2 {
+    background-image: url(../img/asaliy-tort.jpg);
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 185px;
+    color: yellow;
+    font-size: 50px;
+    border: 3px solid red;
+    border-radius: 15px;
+}
+
+.tort-2:hover {
+    border: 10px solid red;
+    padding: 180px;
+}

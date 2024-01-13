@@ -1,0 +1,87 @@
+body {
+    background-color: black;
+    background-image: url("../img/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bosh {
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    border: 3px solid red;
+    background-color: black;
+    border-radius: 20px;
+    height: 75px;
+}
+
+
+.ul-bosh {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.orta-qisim {
+    display: inline-block;
+    list-style: none;
+    margin: 15px;
+    text-align: center;
+}
+
+.orta-qisim a {
+    text-decoration: none;
+    padding: 13px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.orta-qisim a:hover {
+    color: yellow;
+    background-color: red;
+    border-radius: 10px;
+}
+
+.salom .salomlashuv {
+    font-size: 45px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    padding: 5px;
+    padding-bottom: 3px;
+    text-transform: uppercase;
+    color: white;
+}
+
+.salom .tanishuv {
+    font-family: sans-serif;
+    font-size: 35px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: wheat;
+}
+
+.salom .sorov {
+    font-size: 25px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    padding: 5px;
+    color: wheat;
+}
+
+.salom .img {
+    width: 1000px;
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 100px;
+}
+
+.salom .malumot {
+    font-size: 25px;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    padding: 7px;
+    color: wheat;
+}
